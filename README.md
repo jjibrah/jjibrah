@@ -1,7 +1,8 @@
 # Abdifatah Ibrahim
 
-Final-year Computer Science student at Xiamen University Malaysia Currently seeking an internship.
-Kenyan (Native)
+* 21 years old, 4th year XMUM student (3.76 CGPA) looking for an internship.
+* Final-year Computer Science student at Xiamen University Malaysia.
+* Kenyan (Native)
 
 * 🎓 Xiamen University Malaysia
 * 💻 Interested in Backend Engineering, Full Stack Development, Cloud Infrastructure & System Design
