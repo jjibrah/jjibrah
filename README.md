@@ -2,9 +2,9 @@
 
 22 years old, Kenyan, final-year Computer Science student at Xiamen University Malaysia looking for a software engineering internship(sept 2026 - jan 2027).
 
-🎓 Xiamen University Malaysia  
-🇰🇪 Kenyan  
-💻 Interested in Backend Engineering, Full Stack Development, Cloud Infrastructure & System Design  
+* 🎓 Xiamen University Malaysia  
+* 🇰🇪 Kenyan  
+* 💻 Interested in Full Stack Development & System Design  
 
 ## Summary of what I have done? 
 
@@ -24,7 +24,6 @@ Started programming with C and developed an interest in building software system
 ## What I have done 
 
 * Backend Engineering with Node.js 
-* Docker & Containerization
 * PostgreSQL & Database Design
 * Linux Server Administration
 * Cloud Deployment (AWS)
