@@ -1,10 +1,10 @@
 # Abdifatah Ibrahim
 
-* 21 years old, 4th year XMUM student (3.76 CGPA) looking for an internship. \n* Final-year Computer Science student at Xiamen University Malaysia.
-* Kenyan (Native)
+🎓 Final-year Computer Science (Software Engineering) student at Xiamen University Malaysia  
+🇰🇪 Kenyan  
+💻 Interested in Backend Engineering, Full Stack Development, Cloud Infrastructure & System Design  
 
-* 🎓 Xiamen University Malaysia
-* 💻 Interested in Backend Engineering, Full Stack Development, Cloud Infrastructure & System Design
+Looking for a software engineering internship opportunity where I can apply my skills, learn from experienced developers, and contribute to real-world projects.
 
 ## Summary of what I have done
 
