@@ -1,7 +1,7 @@
 # Abdifatah Ibrahim
 
 🎓 Final-year Computer Science (Software Engineering) student at *Xiamen University Malaysia*  
-* 🇰🇪 Kenyan  
+*🇰🇪 Kenyan  
 💻 Interested in Full Stack Development  
 
 * Looking for a software engineering internship opportunity where I can apply my skills, learn from experienced developers, and contribute to real-world projects.
