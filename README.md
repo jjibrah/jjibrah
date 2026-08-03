@@ -13,7 +13,7 @@ Since then, I've been exploring full stack development through personal and univ
 
 | Category | Project | Tech Used |
 |----------|---------|-----------|
-| Logistics Platform | [**Amanah Logistics**](https://github.com/jjibrah/AmanahDeliverySystem) | Node.js, Express.js, Supabase (PostgreSQL), Google Maps API, Docker, Tailewind CSS|
+| Logistics Platform | [**Amanah Logistics**](https://github.com/jjibrah/AmanahDeliverySystem) | Node.js, Express.js, Supabase (PostgreSQL), Google Maps API, Docker, Tailewind CSS, AWS(EC2 - Linux Ubuntu)|
 | Web Development | [**Shop Management System**](https://github.com/jjibrah/ShopManagementSystem) | HTML, CSS, JS |
 | Course work project | [**Hotel Management System**](https://github.com/jjibrah/hotelManagementSystem) | C++ |
 | AI, Agriculture | [**Crop AI**](https://github.com/jjibrah/crop-AI) | Python, Machine Learning |
