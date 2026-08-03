@@ -1,7 +1,6 @@
 # Abdifatah Ibrahim
 
-* 21 years old, 4th year XMUM student (3.76 CGPA) looking for an internship.
-* Final-year Computer Science student at Xiamen University Malaysia.
+* 21 years old, 4th year XMUM student (3.76 CGPA) looking for an internship. \n* Final-year Computer Science student at Xiamen University Malaysia.
 * Kenyan (Native)
 
 * 🎓 Xiamen University Malaysia
