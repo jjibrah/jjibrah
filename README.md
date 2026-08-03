@@ -1,10 +1,20 @@
 # Abdifatah Ibrahim
 
 🎓 Final-year Computer Science (Software Engineering) student at *Xiamen University Malaysia*  
-*🇰🇪 Kenyan  
-💻 Interested in Full Stack Development  
+ 🇰🇪 Kenyan  
+ # Abdifatah Ibrahim
 
-* Looking for a software engineering internship opportunity where I can apply my skills, learn from experienced developers, and contribute to real-world projects.
+21 years old, Kenyan, final-year Computer Science (Software Engineering) student at Xiamen University Malaysia looking for a software engineering internship.
+
+English (Professional), Swahili (Native)
+
+## Summary of what I have done?
+
+First programming language was C. Since then, I have explored different areas of software development through various projects, including full stack development, backend systems, databases, cloud deployment, and software architecture.
+
+I enjoy building practical systems and learning how different technologies work together to create real-world solutions.
+
+* Looking for a internship opportunity sept 2026 - jan 2027.
 
 ## Summary of what I have done
 
