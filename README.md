@@ -12,7 +12,7 @@ Started programming with C and developed an interest in building software system
 
 | Category | Project | Tech Used |
 |----------|---------|-----------|
-| Logistics Platform | [**Amanah Logistics**](https://github.com/jjibrah/AmanahDeliverySystem) | Node.js, Express.js, Supabase (PostgreSQL), Google Maps API, Docker, Tailwind CSS, AWS(EC2 - Linux Ubuntu)|
+| Logistics Platform | [**Amanah Logistics**](https://github.com/jjibrah/AmanahDeliverySystem) | Node.js, Express.js, Supabase (PostgreSQL), Google Maps API, Docker, Tailwind CSS, AWS(EC2 - Linux Ubuntu), routing algorithms|
 | Web Development | [**Shop Management System**](https://github.com/jjibrah/ShopManagementSystem) | HTML, CSS, JS |
 | Course work project | [**Hotel Management System**](https://github.com/jjibrah/hotelManagementSystem) | C++ |
 | AI, Agriculture | [**Crop AI**](https://github.com/jjibrah/crop-AI) | Python, Machine Learning |
