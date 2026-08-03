@@ -10,36 +10,25 @@ Kenyan (Native)
 
 First programming language was C. Placed 2nd in XMUM CodeCraft 2023.
 Since then, I've been exploring full stack development through personal and university projects.
-## Summary of what I have done
-
-Started programming with C. Placed 2nd in XMUM CodeCraft 2023. Since then, I've been building projects while exploring full stack development, backend development, databases, Linux, cloud, and software architecture.
 
 | Category | Project | Tech Used |
 |----------|---------|-----------|
-| Startup, Logistics Platform | **AMANAH** | Node.js, Express.js, Supabase (PostgreSQL), Mapbox, Docker |
-| Web Development | **Shop Management System** | Firebase Authentication, Firestore, Firebase Hosting |
-| Web Development | **Hotel Management System** | React, Node.js, PostgreSQL |
+| Logistics Platform | **AMANAH** | Node.js, Express.js, Supabase (PostgreSQL), Google Maps API, Docker, Tailewind CSS|
+| Web Development | **Shop Management System** | HTML, CSS, JS |
+| Course work project | **Hotel Management System** | C++ |
 | AI, Agriculture | **Crop AI** | Python, Machine Learning |
-| AI, Finance | **FinSight AI** | React, Python, AI APIs |
+| AI, Finance | **FinSight AI** | Java, Gemini APIs |
 | Operating Systems | **Semaphore & Mutex Simulation** | C, POSIX Threads, Semaphores, Mutexes |
 
-These are the projects I have fully completed and documented on GitHub. I will continue adding more projects as I learn and build new systems.
+* I only mentioned projects that are "presentable" projects, meaning I have proof of (on GitHub) and well documented. I have done more but this is fine for now. Gonna add more in the future
 
-## What I'm learning
+## What I have done 
 
-* Backend Engineering with Node.js & Django
+* Backend Engineering with Node.js 
 * Docker & Containerization
 * PostgreSQL & Database Design
 * Linux Server Administration
 * Cloud Deployment (AWS)
 * Software Architecture & System Design
-* CI/CD and DevOps Fundamentals
+* AI and ML 
 
-## What I want to build next
-
-* A reusable ERP starter platform using Django, PostgreSQL, Docker and React.
-* More scalable backend systems that emphasize clean architecture and performance.
-* Production-ready cloud deployments with automated CI/CD pipelines.
-* Distributed systems and caching technologies such as Redis.
-
-I'm always looking for opportunities to work on challenging software engineering problems and contribute to real-world products.
