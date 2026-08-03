@@ -1,15 +1,13 @@
  # Abdifatah Ibrahim
 
-21 years old, Kenyan, final-year Computer Science student at Xiamen University Malaysia looking for a internship (sept 2026 - jan 2027).
+* 21 years old, Kenyan, final-year Computer Science student at Xiamen University Malaysia looking for a internship (sept 2026 - jan 2027).
 
-English (Professional)
+* English (Professional)
 
-* Looking for a internship opportunity sept 2026 - jan 2027.
 
 ## Summary of what I have done
 
-First programming language was C. Placed 2nd in XMUM CodeCraft 2023.
-Since then, I've been exploring full stack development through personal and university projects.
+Started programming with C and developed an interest in building software systems that solve real-world problems.Through personal projects and university coursework, I have explored full stack development while continuously improving my understanding of software design.
 
 | Category | Project | Tech Used |
 |----------|---------|-----------|
