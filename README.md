@@ -13,12 +13,12 @@ Since then, I've been exploring full stack development through personal and univ
 
 | Category | Project | Tech Used |
 |----------|---------|-----------|
-| Logistics Platform | [**AMANAH**](https://github.com/jjibrah/AmanahDeliverySystem) | Node.js, Express.js, Supabase (PostgreSQL), Google Maps API, Docker, Tailewind CSS|
-| Web Development | **Shop Management System** | HTML, CSS, JS |
-| Course work project | **Hotel Management System** | C++ |
-| AI, Agriculture | **Crop AI** | Python, Machine Learning |
-| AI, Finance | **FinSight AI** | Java, Gemini APIs |
-| Operating Systems | **Semaphore & Mutex Simulation** | C, POSIX Threads, Semaphores, Mutexes |
+| Logistics Platform | [**Amanah**](https://github.com/jjibrah/AmanahDeliverySystem) | Node.js, Express.js, Supabase (PostgreSQL), Google Maps API, Docker, Tailewind CSS|
+| Web Development | [**Shop Management System**](https://github.com/jjibrah/ShopManagementSystem) | HTML, CSS, JS |
+| Course work project | [**Hotel Management System**](https://github.com/jjibrah/hotelManagementSystem) | C++ |
+| AI, Agriculture | [**Crop AI**](https://github.com/jjibrah/crop-AI) | Python, Machine Learning |
+| AI, Finance | [**FinSight AI**](https://github.com/jjibrah/finsight-ai) | Java, Gemini APIs |
+| Operating Systems | [**Semaphore & Mutex Simulation**](https://github.com/jjibrah/SemaphoreAndMutex) | C, POSIX Threads, Semaphores, Mutexes |
 
 * I only mentioned projects that are "presentable" projects, meaning I have proof of (on GitHub) and well documented. I have done more but this is fine for now. Gonna add more in the future
 
