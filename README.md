@@ -1,10 +1,9 @@
 # Abdifatah Ibrahim
 
-22 years old, Kenyan, final-year Computer Science student at Xiamen University Malaysia looking for a software engineering internship(sept 2026 - jan 2027).
+22 years old, final-year Computer Science student at Xiamen University Malaysia looking for a internship (sept 2026 - jan 2027).
 
 * 🎓 Xiamen University Malaysia  
-* 🇰🇪 Kenyan  
-* 💻 Interested in Full Stack Development & System Design  
+* 💻 Interested in internship (sept 2026 - jan 2027).
 
 ## Summary of what I have done? 
 
