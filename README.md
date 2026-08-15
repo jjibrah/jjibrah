@@ -1,6 +1,6 @@
 # Abdifatah Ibrahim
 
-22 years old, final-year Computer Science student at Xiamen University Malaysia looking for a internship (sept 2026 - jan 2027).
+Final-year Computer Science student at Xiamen University Malaysia looking for a internship (sept 2026 - jan 2027).
 
 * 🎓 Xiamen University Malaysia  
 * 💻 Interested in internship (sept 2026 - jan 2027).
